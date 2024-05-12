@@ -14,7 +14,7 @@ class ClaudeServiceProvider extends ServiceProvider
      *
      * @var int
      */
-    const DEFAULT_TIMEOUT = 10;
+    const DEFAULT_TIMEOUT = 20;
 
     /**
      * Bootstrap any application services.
