@@ -17,6 +17,4 @@ abstract class ClaudeAPI
      * @param Client $client
      */
     public function __construct(protected Client $client) {}
-
-    // todo imlement tests
 }
